@@ -1,1 +1,3 @@
-.
+1) O que é um repositório?
+2) Qual a diferença entre Git e GitHub? 
+3) Quais vantagens voce enxenga no Git? Voce utilizaria em seu projeto?
