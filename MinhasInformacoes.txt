@@ -1,3 +1,3 @@
-Nome: Gabriel Renato OLiveira Lopes
-Numero: 11
-Idade: 17
+Nome:Gabriel Renato OLiveira Lopes
+Numero:11
+Idade:17
