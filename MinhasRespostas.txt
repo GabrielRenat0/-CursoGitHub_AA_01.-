@@ -1,8 +1,8 @@
 1) O que é um repositório?
-É um lugar onde se quanda as informaçoes e posso manter um controle sobe as mudanças que são feitas no arquivos nele armazenados.
+É um lugar onde se guarda as informaçoes e posso manter um controle sobe as mudanças que são feitas no arquivos nele armazenados.
 
 2) Qual a diferença entre Git e GitHub? 
-Git é a ferramenta onde vc trabalha já o GitHub é a vintrini onde voce mostra oq fez, além de ser uma rede social.
+Git é a ferramenta onde vc trabalha já o GitHub é a vitrine onde voce mostra oq fez, além de ser uma rede social.
 
 3) Quais vantagens voce enxenga no Git? Voce utilizaria em seu projeto?
 As vantagens incluem controle da versão possibilitando voltar se acontecer um erro, saber quem editou cada coisa, uma maior organização do trabalho, irformação guardada na nuvem dando maior segurança para a perda de dados, etc. Sim usaria no meu projeto.
